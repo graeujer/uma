@@ -301,9 +301,11 @@ position:relative;
 
 }
 
-@media(max-width:32rem){
+@media(max-width:25rem){
     .adventures__card{
-        flex:0 0 17rem;
+        flex:0 0 16rem;
+       margin-left:0.5rem;
+       margin-right:0.5rem;
     }
 }
 
