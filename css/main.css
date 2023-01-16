@@ -301,6 +301,12 @@ position:relative;
 
 }
 
+@media(max-width:32rem){
+    .adventures__card{
+        flex:0 0 18rem;
+    }
+}
+
 
 .adventures__card:hover{
     transform:scale(1.05) ;
